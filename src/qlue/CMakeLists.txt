@@ -3,6 +3,8 @@ add_library(qlue
     app.h
     config.h
     qlue.h
+    quick_view.cpp
+    quick_view.h
     helpers/string.hpp
 )
 recmkConfigureTarget(qlue)
